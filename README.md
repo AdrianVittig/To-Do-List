@@ -16,7 +16,7 @@ This project was created to enhance my skills in **JavaScript DOM manipulation, 
 
 ## 🚀 Live Demo
 
-[Check it out here](https://adrianvittig.github.io/ToDoList/)
+[Check the website](https://adrianvittig.github.io/To-Do-List/)
 
 ## 🛠️ Technologies Used
 
